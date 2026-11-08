@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/mongodb-k8s-operator/commit/5150013a39f72ec4da00647fb19ce4ca24196eb0",
       "git:hexsha": "5150013a39f72ec4da00647fb19ce4ca24196eb0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v8/1.75.0"
     },
     {
