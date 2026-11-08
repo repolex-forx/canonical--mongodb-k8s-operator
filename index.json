@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "mongodb-k8s-operator",
+  "versions": [
+    {
+      "commit": "5150013a39f72ec4da00647fb19ce4ca24196eb0",
+      "tag": "rev282",
+      "parsed_at": "2026-11-08T16:04:38.650062+00:00"
+    }
+  ]
+}
