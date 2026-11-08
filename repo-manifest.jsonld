@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/mongodb-k8s-operator/commit/5150013a39f72ec4da00647fb19ce4ca24196eb0",
       "git:hexsha": "5150013a39f72ec4da00647fb19ce4ca24196eb0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v8/1.75.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v8/1.75.0",
+      "repolex:parsedAt": "2026-11-08T16:04:38.648650+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/mongodb-k8s-operator/commit/3321534cd9baadd8e073cb607205bee13a2ba71b",
